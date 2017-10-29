@@ -39,8 +39,8 @@ facebook_image:
 google_analytics:
 comments: false
 
-# Plugins
-gems:
+# Plugins (gems)
+plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
